@@ -111,6 +111,14 @@ I build **mobile, web, and ML-powered applications** that are not just functiona
 </p>
 
 <p align="center">
+<b>Natural Language Processing (NLP)</b><br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFBB00?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Gradio-3C4CCF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF5A5F?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
 <b>Frameworks & APIs</b><br>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -125,10 +133,14 @@ I build **mobile, web, and ML-powered applications** that are not just functiona
 </p>
 
 <p align="center">
+<b>Data Engineering</b><br>
+<img src="https://img.shields.io/badge/ETL_Pipelines-4B8BBE?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
 <b>Version Control & Tools</b><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
